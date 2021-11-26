@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: slateblue;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
+
+h1 button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: right;
+    margin-right: 10px;
+}
+
+#sketch_to_be_drawn , #sketch_to_be_drawn_result{
+    color: aqua;
+}
+
+#score{
+    float: left;
+    margin-left: 20px;
+}
+
+#timer , #timer_result{
+    float: right;
+    margin-right: 20px;
+}
